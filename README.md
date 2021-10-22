@@ -1,7 +1,5 @@
 <h1 align="center">Jaseunda ❤️ Open source</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseunda&label=Profile%20views&color=0e75b6&style=flat" alt="jaseunda" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/jaseunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaseunda" height="30" width="40" /></a>
 <a href="https://twitter.com/jaseunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaseunda" height="30" width="40" /></a>
