@@ -1,4 +1,4 @@
-<h1 align="center">Jaseunda open sources ❤️</h1>
+<h1 align="center">❤️</h1>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/jaseunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaseunda" height="30" width="40" /></a>
